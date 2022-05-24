@@ -75,6 +75,5 @@ def main():
     df['sepal_length'].hist(bins = 40)
     st.pyplot(fig8)
 
-
 if __name__ == '__main__':
     main()
